@@ -683,7 +683,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>menu_button_spr</sprite>
+            <sprite>button_spr</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1065,7 +1065,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>menu_button_spr</sprite>
+            <sprite>button_spr</sprite>
           </argument>
           <argument>
             <kind>0</kind>
